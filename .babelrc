@@ -1,0 +1,14 @@
+// Archivo de configuracion
+
+{
+    "presets": [
+        [
+            "@babel/preset-env",
+            {
+                "targets":{
+                    "node":true
+                }
+            }
+        ]
+    ]
+}
